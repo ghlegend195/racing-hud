@@ -21,7 +21,7 @@
 .custom .trigger{/* These are the actual triggers themselves */
     width:86px;
     height:65px;
-    background: url(ps3-assets/triggers.png);
+    background: url("https://github.com/ghlegend195/racing-hud/blob/main/GPV%20Racing%20BG.png");
     opacity: 0;
 }
 /* The left and right classes below are used to position the triggers
